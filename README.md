@@ -1,5 +1,7 @@
 # Milk WEB
 
+version 1
+~ 2023.11
 [Milk-Fonum](https://github.com/KwonYH-sky/Milk-Fonum)을 재설계하며 만들어보는 데 목적을 둔다.
 
 ~~*[>> Milk Web 바로가기 ](http://ec2-15-164-94-236.ap-northeast-2.compute.amazonaws.com/)*~~(AWS 프리티어 종료)
