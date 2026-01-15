@@ -52,7 +52,8 @@ dependencies {
 }
 
 // QueryDSL 설정
-def querydslSrcDir = 'src/main/generated'
+def querydslSrcDir = 'build/generated/querydsl'
+
 sourceSets {
     main {
         java {
