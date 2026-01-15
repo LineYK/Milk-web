@@ -40,5 +40,3 @@ out/
 
 ### Environment Variables ###
 .env
-
-application-oauth.properties
